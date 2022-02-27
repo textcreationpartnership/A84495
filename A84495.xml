@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Pembroke's speech in the House of Peeres vvhen the seven lords were accused of high-treason. Copia vera. Mic: Oldsworh.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84495</idno>
+            <idno type="STC">Wing E79AB</idno>
+            <idno type="STC">Thomason E441_27</idno>
+            <idno type="STC">ESTC R204907</idno>
+            <idno type="EEBO-CITATION">99899264</idno>
+            <idno type="PROQUEST">99899264</idno>
+            <idno type="VID">152939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2335:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Pembroke's speech in the House of Peeres vvhen the seven lords were accused of high-treason. Copia vera. Mic: Oldsworh.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire, in fact not by Philip, Earl of Pembroke.</note>
+                  <note>Annotation on Thomason copy: "May 11th".</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Humor --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Humor --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  History --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152939:1" rendition="simple:additions"/>
+            <p>THE EARLE of PEMBROKE'S SPEECH IN THE <hi>HO<g ref="char:V">Ʋ</g>SE</hi> OF <hi>PEERES</hi> VVhen the Seven LORDS were accuſed of <hi>High-Treaſon.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="authentication">
+                        <p>Copia vera</p>
+                        <closer>
+                           <signed>MIC: OLDSWORTH.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:152939:2"/>
+            <pb n="1" facs="tcp:152939:2"/>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou know I ſeldome make Speeches, yet (my <hi>Lords</hi>) every thing would live; and now I muſt either find a <hi>Tongue,</hi> or loſe my <hi>head.</hi> I am accus'd for <hi>ſitting here when your Lord<g ref="char:EOLhyphen"/>ſhips fled to the Army;</hi> Alas, my <hi>Lords,</hi> I am an old man, I muſt <hi>ſit;</hi> you may ride or run any whither, but I am an old man. You voted them <hi>Tray<g ref="char:EOLhyphen"/>tours who left the Houſe, and went to York;</hi> they told us then they were <hi>forc'd away by Tumults:</hi> do not You ſay ſo too? were they Traytours for <hi>going,</hi> and am I a Traytour for <hi>ſtay<g ref="char:EOLhyphen"/>iug?</hi> 'sDeath (my <hi>Lords</hi>) what would ye have me doe? hereafter Ile neither <hi>go</hi> nor <hi>ſtay.</hi> I have ſerv'd ye ſeven years, what have ye given me, unleſſe part of a <hi>Thanksgiving-Din<g ref="char:EOLhyphen"/>ner,</hi> for which you made me <hi>faſt</hi> once a Month? I was fed like a Prince at the KING'S coſt, twice every day, (long before ſome of you were born,) and this KING continued, nay out-did his <hi>Father</hi> in heaping favours upon me: Yet (for your ſakes) I renounc'd my Maſter when he had moſt need of me; <hi>Voted</hi> againſt him, <hi>ſwore</hi> againſt him, hired men to <hi>fight</hi> againſt him: I confeſſe, I my ſelf neither <hi>ſtruck</hi> at him, nor <hi>ſhot</hi> at him; but I pray'd for thoſe that did: I gave my Tenants their Leaſes Fine-free if they would <hi>riſe and reſiſt the</hi> KING. And yet (my <hi>Lords</hi>) after all this muſt I be a <hi>Traytour?</hi> Have I not <hi>ſworn</hi> for ye over and over a<g ref="char:EOLhyphen"/>gain? You ſent me on your errands, to <hi>Oxford,</hi> to <hi>Uxbridge,</hi> to <hi>Newcaſtle,</hi> to <hi>Holdenby;</hi> you hurry'd me up and down as if I had been a <hi>King:</hi> you made me carry a world of <hi>Pro<g ref="char:EOLhyphen"/>poſitions,</hi> I brought them all ſafe and ſound; what you bade me ſay, I ſpake to a ſyllable; and had the KING ask'd me how old I was, without your Commiſſion I ſhould not have told him, and yet (my <hi>Lords</hi>) I am an old man. Remem<g ref="char:EOLhyphen"/>ber
+<pb n="2" facs="tcp:152939:3"/> how I ſtuck to you againſt <hi>Strafford</hi> and <hi>Canterbury;</hi> ſome of ye ſhrunk at <hi>Strafford's</hi> Tryall, that your Names were like to be <hi>poaſted</hi> with <hi>Malignants;</hi> and for <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> many of you would have had him <hi>live,</hi> my Lord of <hi>Northumberland</hi> and others would have no hand in his Bloud, but I gave ye the <hi>caſting voice</hi> which ſent him pack<g ref="char:EOLhyphen"/>ing into another world; And yet now would ye ſend me after him? Have I not ſate with you early and late? When the <hi>Parliament</hi> tumbled, and toſs'd, and roll'd it ſelf, on this ſide, and on that ſide, ſtill I was for the <hi>Parliament;</hi> though I ſtay'd here with <hi>Presbyterian Lords,</hi> yet when <hi>you</hi> return'd I was firm for <hi>You:</hi> all the <hi>other</hi> Lords left you in the <hi>Houſe</hi> when Sir <hi>Thomas's</hi> Chaplain <hi>gave thanks</hi> for your <hi>Return,</hi> but I ſtay'd and pray'd with you, and am (for ought I know) as great an <hi>Independent</hi> as any of ye all. I Rejoic'd with ye, Faſted, ſung Pſalms, Pray'd with you, and (here<g ref="char:EOLhyphen"/>after) will run away with ye. Nay, I had done it now, but who knew your minds? if ye meant I ſhould <hi>follow</hi> ye, why did ye not <hi>wink</hi> upon me? think ye I could run away by <hi>inſtinct?</hi> My <hi>Lords,</hi> you know I love Dogs, and (though I ſay it) I thank God I have as good Dogs as any man in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> now (my <hi>Lords</hi>) if a Dog follow me when I do not call him I bid him <hi>be gone;</hi> if I call him and he comes not, then I beat him; but if I beat him for not comming when I never call'd him, you'l think me mad; 'sDeath (my Lords) <hi>'tis a poor Dog is not worth the whiſtling.</hi>
+            </p>
+            <p>But perhaps my fault is not meer <hi>ſtaying here,</hi> but being <hi>active</hi> in your abſence, becauſe in my Robes &amp; collar of S-S I brought up Mr <hi>Pelham</hi> the <hi>Commons</hi> new <hi>Speaker:</hi> why, what if I did? Is not Mr <hi>Pelham</hi> my owne <hi>Coſen?</hi> would Your Lordſhips have me uncivill to my <hi>kindred?</hi> why might not I <hi>entertaine</hi> the new <hi>Speaker,</hi> as well as Sir <hi>Robert Harley</hi> intreat us to <hi>admit</hi> him? Mr <hi>Pelham</hi> is none of Sir <hi>Robert's</hi> Coſen, and yet Sir <hi>Robert</hi> is an old man.</p>
+            <p>I heare ſome ſay, that <hi>I was forward to begin a new War,</hi>
+               <pb n="3" facs="tcp:152939:3"/> that <hi>my hand is to all the Warrants for Liſting Men and Horſe,</hi> and in order thereunto, <hi>I voted His Majeſty ſhould come to London.</hi> 'Tis true (my Lords) I did give my Vote for the KING'S comming hither; but wherefore was it? 'twas only to come to chooſe a New <hi>Speaker:</hi> what, would ye have Vs dumb, and ſit here like <hi>Ferrets?</hi> my Lords, I love to hear men <hi>ſpeak;</hi> and all the <hi>Lawyers</hi> told me, <hi>No King, no Speaker;</hi> that either the <hi>Commons</hi> muſt <hi>name</hi> their <hi>Speaker</hi> and the KING <hi>approve</hi> him, or the KING name him and the <hi>Commons approve</hi> him; <hi>No King, no Speaker:</hi> And ſo I was <hi>for the King,</hi> that is, <hi>for the Speaker.</hi>
+            </p>
+            <p>Then (my Lords) obſerve the <hi>manner</hi> of His comming; the KING was to come <hi>according to the Covenant;</hi> mark ye that? I was ſtill for my <hi>Oathes:</hi> let Him come when He will, if the <hi>Covenant</hi> fetch Him, He had as good ſtay away. And yet men cry ſhame on the <hi>Covenant;</hi> thoſe that <hi>took</hi> it do <hi>caſt it up</hi> againe; and thoſe that refuſe it have given a world of Arguments that it is <hi>Unreaſonable;</hi> which <hi>Reaſons</hi> our <hi>Aſſembly</hi> (like a company of Raſcals) never yet anſwer'd. I know (my Lords) many of our friends never took this <hi>Oath,</hi> but they refus'd it out of meer Conſcience; ſhall <hi>Ma<g ref="char:EOLhyphen"/>lignants</hi> Conſciences be as tender as <hi>ours?</hi> why, what do they think our Conſciences are made of? But (my Lords) ſuppoſe this Oath be <hi>Unreaſonable;</hi> can we do nothing but we muſt give <hi>Reaſon</hi> for it? this is as bad as the Houſe of <hi>Commons,</hi> who when we deny to paſſe any Ordinance, pre<g ref="char:EOLhyphen"/>ſently ſend to know our <hi>Reaſons,</hi> though themſelves give no <hi>Reaſons</hi> for demanding <hi>Ours.</hi> And ſo Malignants would have <hi>Reaſonable</hi> Oaths; only here's the difference, the Houſe of <hi>Commons</hi> do uſe to <hi>demand</hi> Reaſons, and Malignants de<g ref="char:EOLhyphen"/>ſire to be ſuffer'd to <hi>give</hi> Reaſons: my Lords, I love not this giving of <hi>Reaſons;</hi> though I hold the <hi>Covenant</hi> is Extreame Reaſonable; for as ſome Malignants <hi>take it</hi> to <hi>ſave</hi> their <hi>E<g ref="char:EOLhyphen"/>ſtates,</hi> ſo we <hi>give</hi> it to make them <hi>loſe</hi> their Eſtates; both <hi>love</hi> the <hi>Eſtate,</hi> and both <hi>hate</hi> the <hi>Covenant.</hi> Thus (my Lords)
+<pb n="4" facs="tcp:152939:4"/> we have <hi>Reaſon</hi> for this Oath, and Your Lordſhips have <hi>No Reaſon</hi> to make me a <hi>Traytour</hi> while I give my Vote <hi>accor<g ref="char:EOLhyphen"/>ding to the Covenant.</hi>
+            </p>
+            <p>As for <hi>ſigning Warrants to raiſe a New War,</hi> I wonder you'l ſpeak of it; have not ye all done it a hundred times? how many Reames of Paper have we ſubſcrib'd to raiſe forces <hi>for King and Parliament?</hi> 'tis known I can ſcarce write a word beſides my Name: cannot a man write his own Name without loſing his head? if I muſt give Accompt for what I ſet my hand to, Lord have mercy upon me: I ſee now my Grandfather was a wiſe man, he could neither write nor read, and happy for me if I were ſo too: Come, come my Lords, be plain and tell me, do I look like one that would <hi>raiſe a New War?</hi> I muſt confeſſe I love a good Army, but if there be none till I raiſe it, <hi>Souldiers of Fortune</hi> may change their Names. No, (my Lords) 'twas not I, 'twas the <hi>Eleven Members</hi> would have <hi>rais'd a War;</hi> you ſee they were guilty by their running away, I neither ran with <hi>Them</hi> nor with <hi>You,</hi> I do not like this <hi>running away,</hi> I love to <hi>ſtay</hi> by it; and whe<g ref="char:EOLhyphen"/>ther was for <hi>War,</hi> I that ſtay'd in <hi>Town,</hi> or You that went to an <hi>Army?</hi> the Devill of Horſe did I liſt but in my New Coach, nor us'd any Harneſſe but my Collar of S-S. And will ye for this clap me in the <hi>Tower?</hi> you ſent me thither ſix years ſince for but handling a <hi>Standiſh,</hi> and now you'l commit me for <hi>writing my Name;</hi> what (my Lords) do ye hate Learning? can ye not <hi>end</hi> or <hi>begin</hi> a <hi>Parliament</hi> without ſending me to the <hi>Tower?</hi> Doe Your Lordſhips meane to make me a Lord <hi>Maîor?</hi> If I needs muſt go, I pray ye, ſend me home, to <hi>Baynard's Caſtle</hi> or <hi>Durham Houſe,</hi> (a dam<g ref="char:EOLhyphen"/>nable fire burnt my houſe at <hi>Wilton</hi> juſt that hower I mov'd Your Lordſhips to drive Malignants out of <hi>London.</hi>) But why to the <hi>Tower?</hi> am I company for <hi>Lions?</hi> do ye think me a <hi>Cattamountaine,</hi> fit to be ſhown through a grate for two pence? No, my <hi>Lords,</hi> keep the <hi>Tower</hi> for <hi>Malignants,</hi> they can <hi>endure</hi> it, ſome of them have been Priſoners ſeven years;
+<pb n="5" facs="tcp:152939:4"/> they can feed upon bare <hi>Allegiance,</hi> pleaſe themſelves with Diſcourſes of <hi>Conſcience,</hi> of <hi>Honour,</hi> of a <hi>Righteous Cauſe,</hi> and I know not what: But what's this to me? How will thoſe Malignants look upon <hi>me?</hi> nay, how ſhall I look upon <hi>Them?</hi> I confeſſe ſome of 'em love my <hi>Son's</hi> company, they ſay he's more a <hi>Gentleman,</hi> and ha's <hi>wit:</hi> 'sDeath (my Lords) muſt I now turn <hi>Gentleman?</hi> I thought I had been a <hi>Peer</hi> of the <hi>Realm,</hi> and am I now a <hi>Gentleman?</hi> let my <hi>Son</hi> keep his <hi>Wit,</hi> his poor <hi>Father</hi> ne're got two pence by his <hi>Wit.</hi> Alas, (my Lords) what <hi>hurt</hi> can I do ye? or what <hi>good</hi> will it do ye to have my Head? I am but a <hi>Ward,</hi> my Lord <hi>Say</hi> hath diſpos'd of <hi>me</hi> theſe <hi>ſeven</hi> years; I am no <hi>Lawyer</hi> though the <hi>Littletons</hi> call me <hi>Coſen;</hi> I am no <hi>Scholar,</hi> though I have been their <hi>Chancellour;</hi> I am no <hi>States-man,</hi> though I was a <hi>Privy Counſellour;</hi> I know not what ye mean by the <hi>Three Eſtates;</hi> laſt <hi>June</hi> the <hi>Army</hi> demanded a <hi>Releaſe</hi> for <hi>Lil<g ref="char:EOLhyphen"/>burne, Muſgrove,</hi> and <hi>Overton,</hi> I thought <hi>They</hi> were the <hi>Three Eſtates:</hi> I thank God I have a good Eſtate of my own, and I have the Eſtates of my Lord <hi>Baynings</hi> Children, and I have my Lord of <hi>Carnarvons</hi> Eſtate, theſe are my <hi>Three Eſtates.</hi> And yet (my <hi>Lords</hi>) muſt I to the <hi>Tower?</hi> Conſider we are but a few <hi>Lords</hi> left, come, let's love, and be kind to one another; The <hi>Cavaliers</hi> quarrell'd among themſelves, beat one another, and loſt all: Let Vs be wiſer my Lords; for had we fallen into their condition, my Con<g ref="char:EOLhyphen"/>ſcience tells me we had lookt moſt wofully.</p>
+            <p>I perceive Your <hi>Lordſhips</hi> begin to think better of me, and I hear you would quit me if I were not charg'd by the <hi>Agita<g ref="char:EOLhyphen"/>tors</hi> and <hi>Generall Councell of the Army.</hi> How? <hi>Agitator?</hi> 'sDeath what's that? who ever heard that word before? I underſtand <hi>Claſsicall, Provinciall, Congregationall, Nationall;</hi> but for <hi>Agitator,</hi> it may (for ought I know) be a Knave not worth three Pence: if <hi>Agitators</hi> cut Noblemens throats you'l find the <hi>Devill</hi> ha's been an <hi>Agitator.</hi> As for the <hi>Gene<g ref="char:EOLhyphen"/>rall Councell</hi> I hate the Name of it, 'tis old and naught, and
+<pb n="6" facs="tcp:152939:5"/> us'd to be full of <hi>Biſhops;</hi> thoſe fellows have troubled us e<g ref="char:EOLhyphen"/>ver ſince the <hi>Apoſtles;</hi> I thought we had made 'em orpo enough, and is their <hi>Name</hi> come again to torment me? My Lords, I underſtand not theſe <hi>Generall Councells,</hi> thoſe of old (they ſay) were <hi>Chriſtians,</hi> and theſe are <hi>Independents:</hi> What a damnable deal of <hi>Generalling</hi> is here! <hi>Generall Aſſembly, Generall of the Army, Generall Councell of the Army;</hi> we never had quiet hower ſince we had ſo many <hi>Generalls.</hi> Well, my Lords, theſe are hard times, and we make them worſe with hards words, which neither we nor our Fathers underſtood. Heretofore <hi>Biſhops</hi> went <hi>Jure Divino,</hi> then <hi>Elders</hi> would be <hi>Jure Divino,</hi> and now <hi>Agitators</hi> will be <hi>Jure Divino,</hi> (Dam me, I think nothing is <hi>Jure Divino</hi> but <hi>God.</hi>) Call ye this a <hi>through Reformation?</hi> what betwixt the <hi>Aſſemblers</hi> and the <hi>Agitators</hi> I am <hi>reform'd</hi> to meer skin and bone. My <hi>Lords,</hi> if theſe <hi>'tators</hi> muſt rule the Kingdome, why are not we our ſelves <hi>Agitators?</hi> why may not I make <hi>Oldſworth</hi> an <hi>Agi<g ref="char:EOLhyphen"/>tator?</hi> his <hi>abilities</hi> and <hi>honeſty</hi> are equall to moſt of 'em. But (for ought I ſee) <hi>Agitators</hi> will ſooner be Earls of <hi>Pembroke</hi> and <hi>Mongomery</hi> than we <hi>Agitators:</hi> for the <hi>Parliament</hi> leads the <hi>people,</hi> the <hi>Army</hi> leads the <hi>Parliament,</hi> Sir <hi>Thomas</hi> leads the <hi>Army, Cromwell</hi> leads Sir <hi>Thomas, Ireton</hi> leads <hi>Cromwell, Agitators</hi> will lead <hi>Ireton,</hi> whither the Devill ſhall we all lead at laſt?</p>
+            <p>My <hi>Lords,</hi> ye ſee I have ſpoke my mind; I hope every week ſome of your <hi>Lordſhips</hi> will do the like; and the <hi>Commons</hi> in this (though in nothing elſe) will follow the Houſe of <hi>Peers.</hi>
+            </p>
+            <p>But I have done, I have done, my <hi>Lords:</hi> Remember I beſeech ye I am an old man, I have been a Grandfather <hi>time out of mind</hi> (for I was ſo when this Parliament began,) and now muſt I be food for <hi>Agitators?</hi> O my Lords, I have uſed the KING ſo ill, and He lov'd me ſo well, &amp; I have ſerv'd you ſo well, and you uſe me ſo ill, that no man is ſorry for me: Therefore my Requeſt is, that you would not think of ſen<g ref="char:EOLhyphen"/>ding me to the <hi>Tower,</hi> till ſome body pities me.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152939:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
